@@ -59,4 +59,3 @@ See [Export](export.md) for details on what's included and how to use it.
 - **Follow the sequence** — Each step builds on the previous. Don't skip ahead.
 - **Be specific** — The more detail you provide, the better the output.
 - **Iterate** — Each command is a conversation. Refine until you're happy.
-- **Restart the dev server** — After creating new components, restart to see changes.

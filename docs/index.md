@@ -35,7 +35,7 @@ You interact with Design OS through slash commands. Each command walks you throu
 - `/shape-section` — Specify a section's scope and requirements
 - `/sample-data` — Generate realistic data for screen designs
 - `/design-screen` — Create production-ready React components
-- `/screenahot-design` — Snap a screenshot of a finished design screen for quick reference
+- `/screenshot-design` — Snap a screenshot of a finished design screen for quick reference
 - `/export-product` — Generate the complete handoff package
 
 See [Usage](usage.md) for the full workflow.
@@ -47,7 +47,7 @@ See [Usage](usage.md) for the full workflow.
 
 ## Compatibility
 
-- Works with any AI coding agent: Claude Code, Cursor, Copilot, or anything that can implement from a handoff
+- Works with any AI coding agent that can implement from a handoff (Cursor, Copilot, etc.)
 - Your frontend needs React and Tailwind CSS
 - Your backend can be anything—Rails, Laravel, Next.js, Python, whatever
 

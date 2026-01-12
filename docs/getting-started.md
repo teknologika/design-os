@@ -31,12 +31,13 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## Open Claude Code
+## Open your AI coding assistant
 
-In the same project directory, start Claude Code:
+In the same project directory, start your AI coding assistant.
 
 ```bash
-claude
+# Example:
+# <your-ai-tool>
 ```
 
 You're ready to start designing. Run `/product-vision` to begin defining your product.
